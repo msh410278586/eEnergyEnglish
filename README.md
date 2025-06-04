@@ -2,7 +2,7 @@ Privacy Policy
 e-Energy+ (hereinafter referred to as "the App") places great importance on protecting user privacy. We are committed to not collecting or storing any personal information from users. The following outlines our privacy policy:
 
 1. No Collection of Personal Information
-The App does not require user login and does not access contacts, photos, or location information. It also does not collect device identifiers, usage habits, or other private data.
+The App does not require user login and does not access contacts or location information. It also does not collect device identifiers, usage habits, or other private data.
 
 2. No Internet Connectivity Required
 All functions of the App are implemented through Bluetooth communication with the charging device. No internet connection or reliance on cloud services is required. The scanning function is only used to identify devices and does not involve any information upload or storage.
